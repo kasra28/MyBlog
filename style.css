@@ -96,7 +96,7 @@ body{
 }
 @media (min-width:45cm) {
     .header{
-        grid-template-columns: 150px 20cm 40px 90px 40px 100px 40px 10cm 100px;
+        grid-template-columns: 150px 20cm 40px 90px 40px 100px 40px 13cm 100px;
     }
 }
 .footer{
